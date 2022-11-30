@@ -1,0 +1,7 @@
+[03-Jun-2022 18:41:03 UTC] PHP Warning:  Undefined variable $loc in /home/pnhanquaffmienph/mau1.vn1.fun/ticchien.php on line 19
+[05-Jun-2022 07:47:30 UTC] PHP Warning:  file_get_contents(hu.txt): Failed to open stream: No such file or directory in /home/pnhanquaffmienph/mau1.vn1.fun/index.php on line 15
+[05-Jun-2022 07:47:32 UTC] PHP Warning:  Undefined variable $res in /home/pnhanquaffmienph/mau1.vn1.fun/ticchien.php on line 435
+[05-Jun-2022 07:47:36 UTC] PHP Warning:  Undefined variable $res in /home/pnhanquaffmienph/mau1.vn1.fun/ticchien.php on line 435
+[05-Jun-2022 07:47:38 UTC] PHP Warning:  Undefined variable $res in /home/pnhanquaffmienph/mau1.vn1.fun/ticchien.php on line 435
+[05-Jun-2022 07:47:38 UTC] PHP Warning:  Undefined variable $res in /home/pnhanquaffmienph/mau1.vn1.fun/ticchien.php on line 435
+[05-Jun-2022 07:47:43 UTC] PHP Warning:  Undefined variable $res in /home/pnhanquaffmienph/mau1.vn1.fun/ticchien.php on line 435
